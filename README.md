@@ -13,12 +13,18 @@ Enhance your personal finances with Currency Tracker and follow currency rate fl
 - RevenueCat
 
 ## Screenshots
+![Main](https://github.com/user-attachments/assets/2b5b38fd-c274-4472-a854-03e6b469e5c5)
+![Chart](https://github.com/user-attachments/assets/296d46b5-1d97-43a9-9cbc-027014487a71)
+![Insights](https://github.com/user-attachments/assets/5bf53286-63b6-408a-830c-a9b30c50cb87)
+![Themes](https://github.com/user-attachments/assets/51e913c6-da2b-4187-81a0-e3dc81be372d)
 
-![Main](https://github.com/user-attachments/assets/2477043a-bd11-421c-abcc-4b1fbb1b5e1e)
-![Chart](https://github.com/user-attachments/assets/605ee276-23e9-4c9c-811f-2009f23697c8)
-![Insights](https://github.com/user-attachments/assets/9586325c-a38b-473e-b952-313012494f9b)
-![Themes](https://github.com/user-attachments/assets/67d012cc-00b1-4cd9-891d-3a7f9fa1f551)
+<!--
 
+-->
+
+<img src="" width="200">
+<img src="" width="200">
+<img src="" width="200">
 <img src="" width="200">
 
 ## Details
